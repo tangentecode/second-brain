@@ -4,24 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb91c8be75fec77",
+        "id": "ccda1c4f4aa49622",
         "type": "tabs",
         "children": [
           {
-            "id": "6a11d6c28f44b45a",
+            "id": "965db967e67fe7ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4d80543217d6fd4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "Posauenenunterricht/Inhalt.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,9 +176,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a11d6c28f44b45a",
+  "active": "4d80543217d6fd4e",
   "lastOpenFiles": [
-    "U",
-    "Test.md"
+    "Test.md",
+    "Posauenenunterricht/Inhalt.md",
+    "Posauenenunterricht/Stunde 2.md",
+    "Posauenenunterricht/Stunde 6.md",
+    "Posauenenunterricht/Ressourcen/Jazz Conception.pdf",
+    "Posauenenunterricht/Stunde 5.md",
+    "Posauenenunterricht/Stunde 4.md",
+    "Posauenenunterricht/Stunde 3.md",
+    "Posauenenunterricht/Ressourcen/Fly Me To The Moon Impro Audio Tbn.mp3",
+    "Posauenenunterricht/Ressourcen/Fly Me To The Moon Tbn.pdf",
+    "Posauenenunterricht/Stunde 1.md",
+    "Posauenenunterricht/Packliste.md",
+    "Posauenenunterricht/Ressourcen/Akkord Notationen.png",
+    "Posauenenunterricht/Ressourcen/Autumn Leaves .pdf",
+    "Posauenenunterricht/Ressourcen/Fly Me To The Moon.pdf",
+    "Posauenenunterricht/Ressourcen/Autumn Leaves Impro Audio Vorspiel Tbn.mp3",
+    "Posauenenunterricht/Ressourcen/Fly Me To The Moon Impro Audio Vorspiel Tbn.mp3",
+    "Posauenenunterricht/Ressourcen/Vorspiel LJJO Info.pdf",
+    "Posauenenunterricht/Ressourcen/Fly Me To The Moon Approaches .pdf",
+    "Posauenenunterricht/Ressourcen/Autumn Leaves Impro Chord Chart.pdf",
+    "Posauenenunterricht/Bezahlung.md",
+    "Posauenenunterricht/Adresse.md"
   ]
 }

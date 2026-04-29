@@ -1,8 +1,0 @@
-- Jazz Phrasierung (siehe [[Stunde 3]]):
-- Längere Tone (≥ Halbe) mit leichtem Forte Piano
-- [[Jazz Conception.pdf]]
-- **Licks**: 
-	- Einzelne Phrasen die man während einem Solo einbauen kann
-	- In verschiedenen Tonarten üben
-- **Falls**: Absteigendes Glissando
-- **Wichtig**: Über das komplette Instrument
